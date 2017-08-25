@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ir2112pbf)(type Legacy)(uri "$(KIPRJMOD)\\libs\\IR2112PBF\\ir2112pbf.mod")(options "")(descr ""))
+  (lib (name PIC16F1789-I)(type Legacy)(uri "$(KIPRJMOD)\\libs\\PIC16F1789-I\\PIC16F1789-I.mod")(options "")(descr ""))
+  (lib (name FPDL15BH60)(type KiCad)(uri "$(KIPRJMOD)\\libs\\FPDL15BH60\\FPDL15BH60.pretty")(options "")(descr ""))
+)
